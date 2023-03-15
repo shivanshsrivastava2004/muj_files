@@ -1,0 +1,10 @@
+^C:\USERS\SHIVA\DESKTOP\MUJ_FILES\BUILD\WINDOWS\CMAKEFILES\6266E053FFBACDC385E4DBA21420D032\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
