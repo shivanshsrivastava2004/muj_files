@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107981426242",
+    "firebase_url": "https://mujfiles-default-rtdb.firebaseio.com",
+    "project_id": "mujfiles",
+    "storage_bucket": "mujfiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107981426242:android:c5fda05da1da46382927db",
+        "android_client_info": {
+          "package_name": "com.example.muj_files"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107981426242-ml1320ldc1ma4ab338fti2k0pccse0ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQci2yDki2XVWacehWy6y6HMlum-54S4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107981426242-ml1320ldc1ma4ab338fti2k0pccse0ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
